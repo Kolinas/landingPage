@@ -1007,4 +1007,13 @@
     padding-top: 0;
   }
 }
+
+@media (max-width: 400px) {
+  .img-block img {
+    width: 100%;
+  }
+  .img-block-sec img {
+    width: 100%;
+  }
+}
 /*# sourceMappingURL=wf.css.map */
